@@ -1,1 +1,4 @@
 # gitskills
+
+* first sentence
+* seco
